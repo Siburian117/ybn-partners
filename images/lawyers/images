@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Tim Lawyer | LAW OFFICE YBN & PARTNERS</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="logo">
+LAW OFFICE YBN & PARTNERS
+</div>
+
+<nav>
+
+<a href="index.html">Home</a>
+<a href="about.html">Tentang</a>
+<a href="services.html">Layanan</a>
+<a href="lawyers.html">Lawyer</a>
+<a href="articles.html">Artikel</a>
+<a href="contact.html">Kontak</a>
+
+</nav>
+
+</header>
+
+<section class="team-page">
+
+<h1 class="title">
+Tim Advokat
+</h1>
+
+<!-- Managing Partner -->
+
+<h2 class="section-title">
+Managing Partner
+</h2>
+
+<div class="managing">
+
+<img src="images/lawyers/managing-partner.jpg">
+
+<div>
+
+<h2>
+Yusman Bernard Hutapea, S.H.
+</h2>
+
+<h4>
+Managing Partner
+</h4>
+
+<p>
+
+Advokat berpengalaman lebih dari 10 tahun dalam bidang General Corporate, Litigasi Perdata, Litigasi Pidana, Pertanahan, serta Tata Usaha Negara.
+
+</p>
+
+<p>
+
+Lulusan Fakultas Hukum Universitas Krisnadwipayana (UNKRIS) Jakarta serta memiliki lisensi PERADI.
+
+</p>
+
+<p>
+
+Berpengalaman menangani perkara mulai dari Pengadilan Negeri, Pengadilan Tinggi hingga Mahkamah Agung.
+
+</p>
+
+</div>
+
+</div>
+
+<!-- Senior Lawyers -->
+
+<h2 class="section-title">
+Senior Lawyers
+</h2>
+
+<div class="cards">
+
+<div class="lawyer-card">
+
+<img src="images/lawyers/kevin.jpg">
+
+<h3>
+Kevin Octovian Hutapea, S.H., M.H.
+</h3>
+
+<p>
+Senior Associate
+</p>
+
+</div>
+
+<div class="lawyer-card">
+
+<img src="images/lawyers/julya.jpg">
+
+<h3>
+Julya Paulina Siburian, S.H., M.H., CCD, CHRL, CCNP
+</h3>
+
+<p>
+Senior Associate
+</p>
+
+</div>
+
+<div class="lawyer-card">
+
+<img src="images/lawyers/yetti.jpg">
+
+<h3>
+Yetti Qeren Hapuhg Simamora, S.H., M.H.
+</h3>
+
+<p>
+Senior Associate
+</p>
+
+</div>
+
+</div>
+
+<!-- Junior -->
+
+<h2 class="section-title">
+Junior Associates
+</h2>
+
+<div class="cards">
+
+<div class="lawyer-card">
+
+<img src="images/lawyers/dewi.jpg">
+
+<h3>
+Dewi Sofia, S.H.
+</h3>
+
+<p>
+Junior Associate
+</p>
+
+</div>
+
+<div class="lawyer-card">
+
+<img src="images/lawyers/alfy.jpg">
+
+<h3>
+Alfy R Alfyandini, S.H.
+</h3>
+
+<p>
+Junior Associate
+</p>
+
+</div>
+
+<div class="lawyer-card">
+
+<img src="images/lawyers/resky.jpg">
+
+<h3>
+Resky Jaya Witama, S.H.
+</h3>
+
+<p>
+Junior Associate
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+© 2026 LAW OFFICE YBN & PARTNERS
+
+</footer>
+
+<script src="js/script.js"></script>
+
+</body>
+
+</html>
